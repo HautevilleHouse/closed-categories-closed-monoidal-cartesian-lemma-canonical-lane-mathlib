@@ -1,0 +1,9 @@
+import closed_categories_closed_monoidal_cartesian_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace closed_categories_closed_monoidal_cartesian_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end closed_categories_closed_monoidal_cartesian_lemma_canonical_lane_mathlib
+end HautevilleHouse
